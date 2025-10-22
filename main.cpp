@@ -51,10 +51,10 @@ class Inventory {
         item3.price = 8;
         items.push_back(item3);
 
-        item4.name = "burger";
-        item4.quantity = 100;
-        item4.price = 150;
-        items.push_back(item4);
+        // item4.name = "burger";
+        // item4.quantity = 100;
+        // item4.price = 150;
+        // items.push_back(item4);
 
     }
 
